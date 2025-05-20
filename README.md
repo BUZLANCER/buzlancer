@@ -15,3 +15,8 @@
 
 📫 **Contact:** support@buzlancer.com  
 🌍 **Location:** Türkiye – Global Developer Network  
+
+### 👥 Top Contributors
+We’ll feature the most active contributors here each month!  
+Be one of the first 10 developers to contribute and get your profile pinned on our page.
+
