@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Welcome to Buzlancer!
 
-<!--
-**BUZLANCER/buzlancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Buzlancer** is a curated freelance platform built to match high-performing software developers with verified, secure, and long-term software projects.
 
-Here are some ideas to get you started:
+🔹 **Why Developers Choose Buzlancer**
+- Secure payments (escrow system)
+- AI-based evaluation & matchmaking
+- Transparent project scopes
+- Real community, not just job listings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **What You Can Do**
+- 🚀 [Apply as a Freelancer](https://buzlancer.com/developer-registration/)
+- 🧭 [Explore Open Projects](https://github.com/buzlancer)
+- 🤖 [Chat With Our Telegram Bot](https://t.me/buzlancerbot)
+
+📫 **Contact:** support@buzlancer.com  
+🌍 **Location:** Türkiye – Global Developer Network  
